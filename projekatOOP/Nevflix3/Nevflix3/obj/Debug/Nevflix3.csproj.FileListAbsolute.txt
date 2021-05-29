@@ -1,0 +1,12 @@
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\obj\Debug\Nevflix3.csprojAssemblyReference.cache
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\obj\Debug\Nevflix3.forma.resources
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\obj\Debug\Nevflix3.Properties.Resources.resources
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\obj\Debug\Nevflix3.csproj.GenerateResource.cache
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\obj\Debug\Nevflix3.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\bin\Debug\Nevflix3.exe.config
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\bin\Debug\Nevflix3.exe
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\bin\Debug\Nevflix3.pdb
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\obj\Debug\Nevflix3.exe
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\obj\Debug\Nevflix3.pdb
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\obj\Debug\Nevflix3.Logovanje.resources
+C:\Users\Nevena\Documents\GithubProjects\projekatOOP\Nevflix3\Nevflix3\obj\Debug\Nevflix3.Video.resources
